@@ -1,6 +1,7 @@
 # About me
 
 <!-- **esnaolab/esnaolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I am a _Senior Lecturer_ in the [School of Electrical and Electronic Engineering][SoEEE] at the [University of Sheffield][UoS]. I am also a _Visiting Research Collaborator_ in the [Department of Electrical and Computer Engineering][PU_ECE] at [Princeton University][PU]. 
 
 I am interested in understanding the role of information in monitoring, communication, and decision making systems. My research lies broadly in:
 * Information theory and data science  
@@ -11,3 +12,10 @@ I am interested in understanding the role of information in monitoring, communic
 * Information processes on cyberphysical systems  
   * Robust estimation with imperfect information
   * Optimal sensor placement problems
+
+ You can find preprints for my latest research paper on my [group website](esnaolab.github.io).
+
+[UoS]: www.sheffield.ac.uk
+[SoEEE]: www.sheffield.ac.uk/eee
+[PU_ECE]: https://ece.princeton.edu
+[PU]: www.princeton.edu
