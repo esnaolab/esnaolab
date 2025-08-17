@@ -15,7 +15,7 @@ I am interested in understanding the role of information in monitoring, communic
 
  You can find preprints for my latest research paper in my [group website](http://esnaolab.github.io).
 
-[UoS]: www.sheffield.ac.uk
-[SoEEE]: www.sheffield.ac.uk/eee
+[UoS]: https://www.sheffield.ac.uk
+[SoEEE]: https://www.sheffield.ac.uk/eee
 [PU_ECE]: https://ece.princeton.edu
-[PU]: www.princeton.edu
+[PU]: https://www.princeton.edu
