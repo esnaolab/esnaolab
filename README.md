@@ -13,7 +13,7 @@ I am interested in understanding the role of information in monitoring, communic
   * Robust estimation with imperfect information
   * Optimal sensor placement problems
 
- You can find preprints for my latest research paper in my [group website](esnaolab.github.io).
+ You can find preprints for my latest research paper in my [group website](http://esnaolab.github.io).
 
 [UoS]: www.sheffield.ac.uk
 [SoEEE]: www.sheffield.ac.uk/eee
