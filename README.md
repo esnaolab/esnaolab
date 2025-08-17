@@ -6,8 +6,8 @@ I am interested in understanding the role of information in monitoring, communic
 * Information theory and data science  
 * Machine learning and high-dimensional statistics
 * Cybersecurity
- * Detection and mitigation of data integrity attacks  
- * Privacy and confidentiality
+  * Detection and mitigation of data integrity attacks  
+  * Privacy and confidentiality
 * Information processes on cyberphysical systems  
- * Robust estimation with imperfect information
- * Optimal sensor placement problems
+  * Robust estimation with imperfect information
+  * Optimal sensor placement problems
